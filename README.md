@@ -5,9 +5,9 @@ anyRandom.exe
 generate anything randomly whether it be strings , numbers , floating points
 
 
-you can find the direct executable file under the releases section of github you can donwload
+you can find the direct executable file under the releases section of github 
 
-use the exe file , it is 100% virus free don't worry , you can change the icon and place it on destop so it looks nice exe file provided is directly executable , thier is no need for the further installation
+you can donwload and use the exe file , it is 100% virus free don't worry , you can change the icon and place it on destop so it looks nice exe file provided is directly executable , thier is no need for the further installation
 
 if the exe file is not runnning then follow the following steps
 
