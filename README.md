@@ -1,4 +1,7 @@
 # random-generator
+
+anyRandom.exe
+
 generate anything randomly whether it be strings , numbers , floating points
 
 
