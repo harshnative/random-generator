@@ -24,7 +24,7 @@ the strings generated are absolute random , you can use them as your passwords e
 
 you can decide the length of the input string and even decide the lower and upperlimit of the random number generated 
 
-sat starting you will be asked to choice btw 
+at starting you will be asked to choice btw 
         randum string                - 1
 				randum number                - 2
 				randum floating point number - 3
