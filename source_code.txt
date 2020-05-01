@@ -92,9 +92,9 @@ int main()
 			system("cls");
 			
 				
-				cout<<"\n		randum string                - 1";
-				cout<<"\n		randum number                - 2";
-				cout<<"\n		randum floating point number - 3";
+				cout<<"\n		random string                - 1";
+				cout<<"\n		random number                - 2";
+				cout<<"\n		random floating point number - 3";
 				cout<<"\n\nEnter your choice = ";
 				cin>>choice;
 				if(choice==1)
